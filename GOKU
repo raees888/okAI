@@ -15,3 +15,4 @@ fignum : None or int or False
 If None, create a new figure window with automatic numbering.
 If a nonzero integer, draw into the figure with the given number (create it if it does not exist).
 If 0, use the current axes (or create one if it does not exist).
+changed
